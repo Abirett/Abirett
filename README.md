@@ -1,23 +1,23 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Abir Hasan</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Ashfaque Hossain Abir</h1>
 
 ## You Know Me?
 
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://komarev.com/ghpvc/?username=AbirHasan2005&label=Profile%20views&color=0e75b6&style=flat" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/Abirett"><img src="https://komarev.com/ghpvc/?username=Abirett&label=Profile%20views&color=0e75b6&style=flat" alt="Abirett" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
   <br/>
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://github-profile-trophy.vercel.app/?username=AbirHasan2005" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/Abirett"><img src="https://github-profile-trophy.vercel.app/?username=Abirett" alt="Abirett" /></a> </p>
 
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbirHasan2005&show_icons=true&locale=en" alt="AbirHasan2005" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abirett&show_icons=true&locale=en" alt="Abirett" /></p>
 
 <details>
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHasan2005)](https://github.com/AbirHasan2005)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abirett)](https://github.com/Abirett)
 
 </details>
 
@@ -56,54 +56,29 @@
 
 </details>
 
-### API by Me:
-<p align="left"> <a href="https://api.abirhasan.wtf" target="_blank"> <img src="https://img.icons8.com/nolan/100/api.png" alt="Search API" width="80" height="80"/> </a> </p>
 
-### :zap: Recent Activities:
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#21](https://github.com/AbirHasan2005/Rename-Bot/issues/21) in [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot)
-2. ❗️ Closed issue [#27](https://github.com/AbirHasan2005/Watermark-Bot/issues/27) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-3. 🗣 Commented on [#27](https://github.com/AbirHasan2005/Watermark-Bot/issues/27) in [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot)
-4. ❌ Closed PR [#15](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/15) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-5. ❌ Closed PR [#16](https://github.com/AbirHasan2005/VideoMerge-Bot/pull/16) in [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot)
-<!--END_SECTION:activity-->
-
-
-### 📺 Latest YouTube Videos
-<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
-
-<!-- YOUTUBE:START -->
-- [Make own Telegram Streaming Link Gen Bot | Host on Heroku | Discovery Projects](https://www.youtube.com/watch?v=naBRa4a2mnE)
-- [Telegram PDisk Bot Features Tutorial | Discovery Projects](https://www.youtube.com/watch?v=MYMmdQ9rIh4)
-- [Make Own Telegram Files Rename Bot | Host on Heroku | Discovery Projects](https://www.youtube.com/watch?v=edcOa_cZWg4)
-- [Make Own Telegram Video Merge Bot | Discovery Projects](https://www.youtube.com/watch?v=m4r_SHySGYo)
-- [Make Telegram Messages Forwarder Userbot | Discovery Projects](https://www.youtube.com/watch?v=_xuptk2KUbk)
-<!-- YOUTUBE:END -->
-- [More Videos](https://m.youtube.com/channel/UCmnA0xMXzSyU9qbCQAG7bJQ/videos) 
+ 
 
 ### Contribution Graph:
 
 <p align="center">
-  <a href="https://github.com/AbirHasan2005">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasan2005#version3"/>
+  <a href="https://github.com/Abirett">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abirett#version3"/>
   </a>
 </p>
-<a href="https://github.com/AbirHasan2005"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbirHasan2005&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Abirett"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abirett&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <details>
   <summary>Activity Metrics</summary>
   <br/>
-<p align="left"> <a href="https://github.com/AbirHasan2005"><img src="https://metrics.lecoq.io/AbirHasan2005?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="AbirHasan2005" /></a> </p>
+<p align="left"> <a href="https://github.com/Abirett"><img src="https://metrics.lecoq.io/Abirett?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="AbirHasan2005" /></a> </p>
 
 </details>
 
 ### Follow on:
-[![Abir Hasan](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
-[![Abir Hasan](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
-[![Abir Hasan](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
-[![Nahid Hasan Abir](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
+[![Ashfaque Hossain Abir](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![Ashfaque Hossain Abir](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![Ashfaque Hossain Abir](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 
 ### Support Group:
 <a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -111,7 +86,6 @@
 ### Telegram Bots Channel:
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
-[twitter]: https://twitter.com/AbirHasan2005
-[instagram]: https://instagram.com/AbirHasan2005
-[telegram]: https://t.me/AbirHasan2005
-[facebook]: https://facebook.com/AbirHasan2005
+[twitter]: https://twitter.com/ashfaquertc70
+[instagram]: https://instagram.com/tesszedox
+[facebook]: https://facebook.com/ashfaquehossain.abir
