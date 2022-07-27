@@ -81,10 +81,8 @@
 [![Ashfaque Hossain Abir](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 
 ### Support Group:
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="#"><img src="https://img.shields.io/badge/Devs%20Zone-Join%20Facebook%20Group-blue.svg?logo=facebook"></a>
 
-### Telegram Bots Channel:
-<a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Discovery%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 [twitter]: https://twitter.com/ashfaquertc70
 [instagram]: https://instagram.com/tesszedox
