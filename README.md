@@ -9,7 +9,6 @@
 
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirett&show_icons=true&locale=en" alt="abirett" /></p>
 
 <details>
     <summary>Top Languages</summary>
