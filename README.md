@@ -2,7 +2,7 @@
 
 ## You Know Me?
 
-<p align="left"> <a href="https://github.com/Abirett"><img src="https://komarev.com/ghpvc/?username=abirett&label=Profile%20views&color=0e75b6&style=flat" alt="Abirett" /></a> </p>
+<p align="left"> <a href="https://github.com/Abirett"><img src="https://komarev.com/ghpvc/?username=Abirett&label=Profile%20views&color=0e75b6&style=flat" alt="Abirett" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
@@ -11,6 +11,7 @@
 
 </details>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abirett&show_icons=true&locale=en" alt="Abirett" /></p>
 
 <details>
     <summary>Top Languages</summary>
