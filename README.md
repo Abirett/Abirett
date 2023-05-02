@@ -2,6 +2,8 @@
 
 ## You Know Me?
 
+<p align="left"> <a href="https://github.com/Abirett"><img src="https://komarev.com/ghpvc/?username=abirett&label=Profile%20views&color=0e75b6&style=flat" alt="Abirett" /></a> </p>
+
 <details>
   <summary>GitHub Stats</summary>
   <br/>
